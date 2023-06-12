@@ -1,3 +1,7 @@
 Section 1 Completed
 Section 2 
 	read: Boiler plate
+	change SqlLite with postgres, add swagger
+Section 3 import ngx-bootstrap in package.json
+	
+next Section 4
